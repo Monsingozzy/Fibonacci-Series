@@ -1,3 +1,3 @@
 # Fibonacci-Series
-in this file we have pesudo code also 
+# in this file we have pesudo code also 
 
